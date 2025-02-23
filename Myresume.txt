@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+</head>
+
+ <!-- External CSS link  -->
+ <link rel="stylesheet" href="./basicResume.css">
+ 
+ <!-- Awesome Icons  -->
+ <script src="https://kit.fontawesome.com/ffe8c3f3d7.js" crossorigin="anonymous"></script>
+<body>
+   <section class="main-section">
+    <div class="bg-color"></div>
+    <div class="description-div">
+        <div class="left-div">
+            <img src="./srpic.png" alt="">
+            <div class="contact-div">
+                <h2>My Contact</h2>
+                <i class="fa-regular fa-envelope"></i>
+                <a href="mailto:padmavathichebrolu2004@gmail.com">padmavathichebrolu2004@gmail.com</a><br>
+                <i class="fa-solid fa-phone"></i>
+                <a href="tel:6305239972">6305239972</a><br>
+                <i class="fa-solid fa-location-dot"></i>
+                <a href="">Guntur City,India,522001</a>
+            </div>
+            <div class="hardskill-div">
+                <h2>Hard Skill</h2>
+                <ul>
+                    <li>C</li>
+                    <li>JAVA</li>
+                    <li>MEAN Stack Developement</li>
+                    <li>Git & GitHub</li>
+                </ul>
+            </div>
+            <div class="softskill-div">
+                <h2>Soft Skill</h2>
+                <ul>
+                    <li>Communication skill</li>
+                    <li>Decision making</li>
+                    <li>Multi-tasking</li>
+                </ul>
+            </div>
+            <div class="language-div">
+                <h2>Language</h2>
+                <ul>
+                    <li>English</li>
+                    <li>TELUGU</li>
+                </ul>
+            </div>
+        </div>
+        <div class="right-div">
+            <div class="name-div">
+                <h1>PADMAVATHI CHEBROLU</h1>
+                <h2>Web Developer</h2>
+            </div>
+            <div class="about-section">
+                <h2>About Me</h2>
+                <p>As a web developer,my objective is to create user-friendly and efficient websites that are visually appealing and easy to navigate.I utilize my skills in HTML,CSS,JS and PHP to Develop Websites that meet all the requirements of the client.</p>
+            </div>
+            <div class="certifications-div">
+                <h2>Certifications</h2>
+                <ul>
+                    <li>Web Developement certified by  Udemy (February,2025)</li>
+                    <li>ARITIFICIAL INTELLIGENCE certified by  Skilldesire (August,2024)</li>
+                </ul>
+            </div>
+            <div class="edu-bg-div">
+                <h2>Education Background</h2>
+                <ul>
+                    <li>
+                        <h3>State Board Secondary Education</h3>
+                        <p>10th with 83%</p>
+                        <p>Completed in 2020</p>
+                    </li>
+                    <li>
+                        <h3>State Board Secondary Education</h3>
+                        <p>12th with 71%,Computer Scince</p>
+                        <p>Completed in 2023</p>
+                    </li>
+                </ul>
+            </div>
+            <div class="achievements-div">
+                <h2>Achievements</h2>
+                <ul>
+                    <li>SHE Inspire Scholorship for Higher Education in 2024</li>
+                    <li>1 star HankerRank platform</li>
+                    <li>2 star codechef platform</li>
+                </ul>
+            </div>
+        </div>
+     </div>
+  </section>
+
+</body>
+</html>
